@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="name">Erik Contena</string>
+    <string name="company">Perusahan</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukan Kata</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="repository">Repository</string>
+</resources>
